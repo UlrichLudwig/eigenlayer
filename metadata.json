@@ -1,1 +1,7 @@
-{"name": "EigenLayerDN", "website": "https://www.eigenlayer.xyz/", "description": "On a mission to make the Ethereum network more secure and more distributed", "logo": "https://i.ibb.co/b5BQwtP/eth.png", "twitter": "https://twitter.com/ludwigul"}
+{
+"name": "EigenLayerDN",
+ "website": "https://www.eigenlayer.xyz/",
+ "description": "On a mission to make the Ethereum network more secure and more distributed",
+ "logo": "https://raw.githubusercontent.com/UlrichLudwig/eigenlayer/main/logo.png",
+ "twitter": "https://twitter.com/ludwigul"
+}
